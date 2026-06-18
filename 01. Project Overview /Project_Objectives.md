@@ -2,7 +2,7 @@
 
 ## Primary Objective
 
-To design a centralized University Course Registration System that simplifies and automates the course enrollment process for students, academic advisors, lecturers, and administrators.
+To design a centralized University Course Registration System which simplifies and automates the course enrollment process for students, academic advisors, lecturers, and administrators.
 
 ## Business Objectives
 
@@ -16,7 +16,7 @@ To design a centralized University Course Registration System that simplifies an
 ## Project Objectives
 
 * Develop an online course registration platform.
-* Enable students to register and drop courses electronically.
+* Enable students to register and drop courses through a portal.
 * Implement prerequisite and timetable conflict validation.
 * Provide advisor approval workflows where required.
 * Generate enrollment and registration reports for administrators.
