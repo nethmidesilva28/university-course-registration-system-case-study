@@ -1,0 +1,8 @@
+| ID    | Stakeholder           | Role           | Interest | Influence | Requirements              | Communication Method        |
+| ----- | --------------------- | -------------- | -------- | --------- | ------------------------- | --------------------------- |
+| ST-01 | Students              | End User       | High     | Medium    | Easy registration process | Email, Portal Notifications |
+| ST-02 | Academic Advisors     | Approver       | High     | High      | Approval workflow         | Meetings, Email             |
+| ST-03 | Lecturers             | Faculty Member | Medium   | Medium    | Access class lists        | Email                       |
+| ST-04 | Registrar Office      | Administrator  | High     | High      | Registration management   | Meetings                    |
+| ST-05 | University Management | Sponsor        | Medium   | High      | Reporting & analytics     | Reports                     |
+| ST-06 | IT Department         | Technical Team | High     | High      | System maintenance        | Scrum Meetings              |
