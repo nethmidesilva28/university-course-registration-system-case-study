@@ -45,4 +45,4 @@ The university currently relies on manual registration methods, causing delays, 
 ## Author
 
 Nethmi Silva
-Business Analysis & Project Management Case Study
+: Business Analysis & Project Management Case Study
