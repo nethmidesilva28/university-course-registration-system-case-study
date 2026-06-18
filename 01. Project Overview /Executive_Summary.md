@@ -1,4 +1,4 @@
-Executive Summary
+# Executive Summary
 
 The University Course Registration System is a digital solution designed to modernize the academic course enrollment process. The existing registration process relies heavily on manual procedures, resulting in delays, administrative inefficiencies, registration errors, and limited visibility for students.
 
